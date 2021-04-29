@@ -1,7 +1,7 @@
 # Data_Visualization [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2632856d420648b49390ce00eb97c387)](https://www.codacy.com/manual/berlin.7.11.99/Data_Visualization?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deepanshu-Raj/Data_Visualization&amp;utm_campaign=Badge_Grade)
 Various plots for data visualisation
 
-## Reference repo : <a href="https://github.com/deepanshu-Raj/Data_Visualization/blob/master/Data_Visualization.ipynb"><code>Repo</code></a>
+## Reference Notebook : <a href="https://github.com/deepanshu-Raj/Data_Visualization/blob/master/Data_Visualization.ipynb"><code>notebook</code></a>
 
 ## Run Instructions:
 
