@@ -1,4 +1,5 @@
-# Data_Visualization [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2632856d420648b49390ce00eb97c387)](https://www.codacy.com/manual/berlin.7.11.99/Data_Visualization?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=deepanshu-Raj/Data_Visualization&amp;utm_campaign=Badge_Grade)
+<h1 align="center"> 🎖️ Data-Visualization </h1>
+
 Various plots for data visualisation
 
 #### Reference Notebook : <a href="https://github.com/deepanshu-Raj/Data_Visualization/blob/master/Data_Visualization.ipynb"><code>notebook</code></a>
